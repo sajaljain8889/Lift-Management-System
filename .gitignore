@@ -1,0 +1,51 @@
+# Build and object files
+bin/
+obj/
+
+# User-specific files and settings
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+
+# NuGet packages
+packages/
+
+# Visual Studio cache files
+*.vs/
+
+# Build results
+[Bb]uild/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Resharper-specific files
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+
+# Build tooling
+msbuild.log
+msbuild.err
+
+# ClickOnce deployment files
+publish/
+
+# Windows Temp files
+[Tt]humbs.db
+desktop.ini
+
+# Backup files
+*~
+
+# End of Line (EOL) settings
+*.dbschema
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# macOS specific files
+.DS_Store
